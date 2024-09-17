@@ -1,0 +1,9 @@
+{
+    "postgres": {
+        "host": "localhost",
+        "port": 5432,
+        "database": "ansible_gateway",
+        "user": "aguser",
+        "password": "I-am-not-a-password"
+    }
+}
